@@ -4,7 +4,7 @@
 
 *Generating HTML Code from a hand-drawn wireframe*
 
-![Preview](https://github.com/ashnkumar/sketch-code/blob/master/header_image.png)
+![Preview](header_image.png)
 
 SketchCode is a deep learning model that takes hand-drawn web mockups and converts them into working HTML code. It uses an [image captioning](https://towardsdatascience.com/image-captioning-in-deep-learning-9cd23fb4d8d2) architecture to generate its HTML markup from hand-drawn website wireframes.
 
